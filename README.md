@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Cyb3rflex
+- I'm a Front-end Developer
 - 👀 I’m interested in Cybersecurity, Machine Learning, and Open Source Projects
-- 🌱 I’m currently learning advanced penetration testing techniques and data science. currently learning frontend and backend development.
+- 🌱 I’m currently learning advanced penetration testing techniques and data science.
 - 💞️ I’m looking to collaborate on cybersecurity tools and machine learning projects
 - 📫 How to reach me cybrflex@gmail.com
 - 😄 Pronouns: they/them
