@@ -1,17 +1,30 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulmuheez Qazeem
 ==========================================================================================================================================
 
-Full stack Developer
---------------------
+Full Stack Developer & Cybersecurity Enthusiast
+------------------------------------------------
 
-✏️ I've been diving into the world of coding for over 3 years, and it’s been an exciting journey! Starting with the essentials—HTML, CSS, and JavaScript—I quickly developed a strong foundation in front-end development. I enjoy designing responsive and user-friendly applications that bring ideas to life on the screen. Recently, I’ve shifted my focus to backend development, working with frameworks and exploring how everything operates behind the scenes. This has expanded my understanding of full-stack development and opened up new possibilities for creating robust, dynamic projects. As I continue to learn and grow, I’m always excited to take on new challenges, collaborate with others, and build impactful solutions that make a difference!
+With over 3 years of coding experience, I’ve built a strong foundation in full stack development—starting with HTML, CSS, and JavaScript, and expanding into backend frameworks for creating robust, dynamic applications. I enjoy designing responsive, user-friendly interfaces and building solutions that bring ideas to life.
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [abdulmuheezq@gmail.com](mailto:abdulmuheezq@gmail.com)
-* 🚀  I'm currently working on [Handyman web Application](http://handyman-frontend-gold.vercel.app/)
-* 🧠  I'm learning a new backend framework to expand my skills and build even more dynamic and robust projects.
-* 🤝  I'm open to collaborating on innovative web design projects, interactive animations, and responsive front-end development.
-* ⚡  I secretly dream of building an app that goes viral… but let’s keep that between us!
+Alongside development, I specialize in cybersecurity and ethical hacking, with practical experience in penetration testing, vulnerability assessment, and network defense strategies. Backed by a Cisco certification, I approach projects with a strong security-first mindset—ensuring that what I build is not only functional but also secure.
+
+🌍 Based in Nigeria
+
+✉️ Contact: abdulmuheezq@gmail.com
+
+🚀 Currently building: Handyman Web Application
+
+🧠 Expanding skills in advanced backend frameworks & cybersecurity tools
+
+🔒 Skilled in penetration testing, Linux systems, and secure application design
+
+📜 Cisco-certified in cybersecurity fundamentals
+
+🤝 Open to collaborations on secure web applications, innovative UI/UX, and cybersecurity-focused projects
+
+⚡ Goal: bridging the gap between software development and cybersecurity to create impactful, secure solutions
+
+----
 
 <a href="https://www.x.com/cyb3rflex/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/cyb3rflex/?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
