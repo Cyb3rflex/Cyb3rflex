@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack Developer
 --------------------
 
-✏️ I've been diving into the world of coding for over a year, and it’s been an exciting journey! Starting with the essentials—HTML, CSS, and JavaScript—I quickly developed a strong foundation in front-end development. I enjoy designing responsive and user-friendly applications that bring ideas to life on the screen. Recently, I’ve shifted my focus to backend development, working with frameworks and exploring how everything operates behind the scenes. This has expanded my understanding of full-stack development and opened up new possibilities for creating robust, dynamic projects. As I continue to learn and grow, I’m always excited to take on new challenges, collaborate with others, and build impactful solutions that make a difference!
+✏️ I've been diving into the world of coding for over 3 years, and it’s been an exciting journey! Starting with the essentials—HTML, CSS, and JavaScript—I quickly developed a strong foundation in front-end development. I enjoy designing responsive and user-friendly applications that bring ideas to life on the screen. Recently, I’ve shifted my focus to backend development, working with frameworks and exploring how everything operates behind the scenes. This has expanded my understanding of full-stack development and opened up new possibilities for creating robust, dynamic projects. As I continue to learn and grow, I’m always excited to take on new challenges, collaborate with others, and build impactful solutions that make a difference!
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [abdulmuheezq@gmail.com](mailto:abdulmuheezq@gmail.com)
