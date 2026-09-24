@@ -1,68 +1,210 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'M Cyberflex
-==========================================================================================================================================
+# Hi 👋 I'm Cyberflex
 
-Full Stack Developer & Cybersecurity Enthusiast
-------------------------------------------------
+### Full-Stack Developer • Cybersecurity Analyst • Open-Source Contributor
 
-With over 3 years of coding experience, I’ve built a strong foundation in full stack development—starting with HTML, CSS, and JavaScript, and expanding into backend frameworks for creating robust, dynamic applications. I enjoy designing responsive, user-friendly interfaces and building solutions that bring ideas to life.
+I'm a **Full-Stack Developer and Cybersecurity Analyst** based in Nigeria, with 3+ years of hands-on experience building web applications, backend services, APIs, and security-focused projects.
 
-Alongside development, I specialize in cybersecurity and ethical hacking, with practical experience in penetration testing, vulnerability assessment, and network defense strategies. Backed by a Cisco certification, I approach projects with a strong security-first mindset—ensuring that what I build is not only functional but also secure.
+I enjoy working on problems where **software engineering, security, reliability, and data integrity** overlap — from building applications from scratch to investigating bugs and improving existing codebases.
 
-🌍 Based in Nigeria
+I'm particularly interested in contributing to open-source projects where I can work on **backend systems, APIs, security fixes, testing, accessibility, database integrity, and developer tooling**.
 
-✉️ Contact: cybrflex@gmail.com
+---
 
-🚀 Currently building: Handyman Web Application
+## 🧑🏽‍💻 What I Work With
 
-🧠 Expanding skills in advanced backend frameworks & cybersecurity tools
+### Frontend
 
-🔒 Skilled in penetration testing, Linux systems, and secure application design
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* HTML / CSS
+* Vite
 
-📜 Cisco-certified in cybersecurity fundamentals
+### Backend
 
-🤝 Open to collaborations on secure web applications, innovative UI/UX, and cybersecurity-focused projects
+* Node.js
+* Express.js
+* REST APIs
+* PostgreSQL
+* Neon
+* JWT / RBAC
+* API validation
+* Authentication & authorization
 
-⚡ Goal: bridging the gap between software development and cybersecurity to create impactful, secure solutions
+### Security
 
-----
+* Web application security
+* Vulnerability assessment
+* Penetration testing
+* OWASP security practices
+* Burp Suite
+* Nmap
+* Wireshark
+* Metasploit
+* Linux
+* Bash
+* Hack The Box
+* TryHackMe
+* CTFs
 
-<a href="https://www.x.com/cyb3rflex/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/cyb3rflex/?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
-/></a>
+### Engineering
 
-### Skills
+* Git & GitHub
+* Docker
+* CI/CD
+* Automated testing
+* Debugging
+* API integration
+* Database design
+* Audit logging
+* Secure application design
 
+---
+
+## 🚀 What I Build
+
+I build practical applications with a focus on **maintainability, security, and real-world usability**.
+
+### 🏛️ GovDocs
+
+A government document management and workflow system.
+
+**Stack:** React + TypeScript + Tailwind + Node.js + Express + PostgreSQL
+
+Features include:
+
+* JWT authentication
+* Role-based access control
+* Document workflows
+* Department management
+* Audit logging
+* CSV reporting
+* ICT support/tracking
+* Secure API architecture
+
+🔗 [Live Application](https://gov-docs-omega.vercel.app)
+
+🔗 [GitHub Repository](https://github.com/Cyb3rflex/GovDocs)
+
+---
+
+### 🛡️ ThreatIQ
+
+A cybersecurity-focused project built around security analysis and threat awareness.
+
+I'm interested in building security tools that make complex security concepts easier to understand and use in practical environments.
+
+---
+
+### 🔎 NetReconX
+
+A network reconnaissance and security-focused project exploring practical network enumeration and security analysis.
+
+My cybersecurity work has also involved tools such as **Nmap, Burp Suite, Wireshark, and Metasploit**, alongside hands-on labs through Hack The Box, TryHackMe, CTFs, and security testing.
+
+---
+
+## 🔐 Security Mindset
+
+As a developer with a cybersecurity background, I don't only think about whether code works.
+
+I also think about:
+
+* What happens when input is malformed?
+* What happens when a request is repeated?
+* Can unauthorized users access the data?
+* What happens when a dependency or service fails?
+* Are sensitive values exposed in logs?
+* Does an update accidentally overwrite existing data?
+* Are errors handled safely?
+* Can an attacker abuse the API?
+* Are important security assumptions covered by tests?
+
+This mindset is especially important when working on **authentication, authorization, APIs, databases, user data, and financial or privacy-sensitive systems**.
+
+---
+
+## 🧪 Open Source
+
+I'm actively growing my open-source engineering experience by contributing to real-world repositories.
+
+Areas I'm particularly interested in:
+
+* Backend engineering
+* TypeScript / Node.js
+* React
+* API development
+* Database integrity
+* Security fixes
+* Privacy
+* Accessibility
+* Testing
+* Reliability
+* Documentation
+* Developer tooling
+
+When working on an issue, my approach is usually:
+
+**Understand the existing implementation → reproduce the problem → identify the smallest correct fix → add regression tests → run the project's checks → document the change clearly.**
+
+I prefer making focused changes that fit the repository's existing architecture rather than unnecessarily rewriting working code.
+
+---
+
+## 🧰 Core Technologies
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript"/></a>
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React"/></a>
+<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="Next.js"/></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js"/></a>
+<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" height="40" alt="Express.js"/></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL"/></a>
+<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind CSS"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="40" height="40" alt="Bash"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git"/></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux"/></a>
 </p>
 
-### Tools
+---
 
+## 🛡️ Security Tools
 
+**Burp Suite** • **Nmap** • **Wireshark** • **Metasploit** • **Linux** • **Bash**
 
-### Socials
+**Hack The Box** • **TryHackMe** • **CTFs** • **Web Security Testing**
 
-<p align="left"> <a href="https://www.github.com/Cyb3rflex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/cyb3rflex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/cyb3rflex/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@cyberflex " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
-https://tryhackme.com/p/cyberflex
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🌐 Find Me
 
-<a href="http://www.github.com/Cyb3rflex"><img src="https://github-readme-stats.vercel.app/api?username=Cyb3rflex&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Cyb3rflex's GitHub stats" /></a>
+<p align="left">
+<a href="https://github.com/Cyb3rflex">GitHub</a> •
+<a href="https://www.linkedin.com/in/cyberflex-493676340">LinkedIn</a> •
+<a href="https://tryhackme.com/p/cyberflex">TryHackMe</a> •
+<a href="https://x.com/cyb3rflex">X</a>
+</p>
 
-<a href="http://www.github.com/Cyb3rflex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyb3rflex&stroke=ef4444&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+📧 **Email:** [cybrflex@proton.me](mailto:cybrflex@proton.me)
 
-<a href="http://www.github.com/Cyb3rflex"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cyb3rflex&bg_color=1c1917&color=ef4444&line=22c55e&point=ef4444&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+🌍 **Nigeria**
 
-<a href="https://github.com/Cyb3rflex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rflex&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-### Support Me
+## 📊 GitHub
 
-<ul style="list-style-type: none; margin: 0;">
+<a href="https://github.com/Cyb3rflex">
+<img src="https://github-readme-stats.vercel.app/api?username=Cyb3rflex&show_icons=true&count_private=true&hide_border=true" alt="Cyb3rflex's GitHub statistics"/>
+</a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Cyberflex "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<a href="https://github.com/Cyb3rflex">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyb3rflex&layout=compact&hide_border=true" alt="Cyb3rflex's top languages"/>
+</a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Cyberflex "><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+---
 
-</ul>
+### ⚡ Building secure software, learning in public, and contributing to open source.
